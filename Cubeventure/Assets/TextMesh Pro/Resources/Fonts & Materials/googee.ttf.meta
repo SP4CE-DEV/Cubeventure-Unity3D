@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa2f1da5e682b410996fcc2a05282631
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Googee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c9107dbcc7c984f2eb3a5e5790f07207, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

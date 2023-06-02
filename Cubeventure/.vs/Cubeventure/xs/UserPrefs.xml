@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A1E74A0A-7490-6361-5B22-86A38623DCF8}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GUI/Shop.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GUI/Shop.cs" Line="23" Column="6" />
+      <File FileName="Assets/Scripts/MAP/NextLevel.cs" />
+      <File FileName="Assets/Scripts/GUI/MainMenuCam.cs" />
+      <File FileName="Assets/Scripts/GUI/CrystalScore.cs" />
+      <File FileName="Assets/Scripts/GUI/MainMenu.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cubeventure" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="089e4d42-70d0-45ca-a791-c0423dee8b16" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
